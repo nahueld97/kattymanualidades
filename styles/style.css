@@ -1,0 +1,35 @@
+html{
+    font-family: "Ubuntu Condensed", sans-serif;
+    background-color: #cc00cc;
+}
+
+body{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ff99ff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1:hover {
+    color: red;
+}
+
+h1{
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 12px gray;
+    font-size: 60px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+p,li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
